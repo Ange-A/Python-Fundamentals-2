@@ -7,3 +7,4 @@ class Solution(object):
         sqrt_n = math.sqrt(x) 
         rounded = int(math.floor(sqrt_n))
         return rounded
+    
